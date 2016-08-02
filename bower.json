@@ -1,0 +1,17 @@
+{
+  "name": "angular-component",
+  "homepage": "https://github.com/ionutpetre/angular-component",
+  "authors": [
+    "Ionut Petre <ionutpetre.ro@gmail.com>"
+  ],
+  "description": "My first angular component",
+  "main": "",
+  "keywords": [
+    "angular",
+    "component"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
