@@ -1,0 +1,27 @@
+{
+  "name": "angular-component",
+  "version": "1.0.0",
+  "description": "Angular Component Demo",
+  "main": "myComponent.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionutpetre/angular-component.git"
+  },
+  "keywords": [
+    "angular",
+    "component",
+    "demo"
+  ],
+  "author": "ionutpetre.ro@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ionutpetre/angular-component/issues"
+  },
+  "homepage": "https://github.com/ionutpetre/angular-component#readme"
+}
